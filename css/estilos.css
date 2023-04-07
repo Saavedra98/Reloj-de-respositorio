@@ -16,7 +16,7 @@ html {
 
 /*.estiloDeClase*/
 .reloj-contenedor {
-  background-color: rgb(128, 3, 96);
+  background-color: rgb(30, 30, 39);
   padding: 25px; /*Espacio de la fuente con la caja*/
   max-width: 500px; /*Espacio que ocupa la caja contenedora*/
   text-align: center;
